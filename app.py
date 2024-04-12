@@ -25,6 +25,25 @@ st.set_page_config(layout = "wide", page_icon = 'logo.jpg', page_title='FIFA Wor
 st.markdown("<h1 style='text-align: center;'>Welcome to the World Cup 2022 Summary Application by Anar Abiyev!</h1>", unsafe_allow_html=True)
 st.markdown("##### Click a match from group stage playoffs and scroll down for comprehensive game summary and analysis!")
 
+st.markdown(
+    """
+    <style>
+    #graph-container {
+        position: relative; /* Ensure proper positioning */
+        width: 100%; /* Set the width to 100% */
+        height: 400px; /* Set the height of the container */
+    }
+    .stImage { /* Adjust the class name based on how Streamlit renders the graph */
+        position: absolute; /* Fix the position of the graph */
+        top: 0; /* Adjust top position as needed */
+        left: 0; /* Adjust left position as needed */
+        width: 100%; /* Ensure the graph spans the entire width of its container */
+        height: 100%; /* Ensure the graph spans the entire height of its container */
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 
 # %% group games
 new_line(3)
