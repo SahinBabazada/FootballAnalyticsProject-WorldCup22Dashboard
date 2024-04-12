@@ -1,0 +1,65 @@
+﻿match_id,home_team_name,away_team_name,competition_stage_name,home_FT_score,away_FT_score,home_ET_score,away_ET_score,home_PenSh_score,away_PenSh_score,et_flag,ps_flag
+3857254,Denmark,Tunisia,Group Stage,0,0,0,0,0,0,0,0
+3857255,Japan,Spain,Group Stage,2,1,2,1,0,0,0,0
+3857256,Serbia,Switzerland,Group Stage,2,3,2,3,0,0,0,0
+3857257,Australia,Denmark,Group Stage,1,0,1,0,0,0,0,0
+3857258,Brazil,Serbia,Group Stage,2,0,2,0,0,0,0,0
+3857259,Cameroon,Serbia,Group Stage,3,3,3,3,0,0,0,0
+3857260,Saudi Arabia,Mexico,Group Stage,1,2,1,2,0,0,0,0
+3857261,Wales,England,Group Stage,0,3,0,3,0,0,0,0
+3857262,South Korea,Portugal,Group Stage,2,1,2,1,0,0,0,0
+3857263,Spain,Germany,Group Stage,1,1,1,1,0,0,0,0
+3857264,Poland,Argentina,Group Stage,0,2,0,2,0,0,0,0
+3857265,Mexico,Poland,Group Stage,0,0,0,0,0,0,0,0
+3857266,France,Denmark,Group Stage,2,1,2,1,0,0,0,0
+3857267,Ecuador,Senegal,Group Stage,1,2,1,2,0,0,0,0
+3857268,Belgium,Canada,Group Stage,1,0,1,0,0,0,0,0
+3857269,Brazil,Switzerland,Group Stage,1,0,1,0,0,0,0,0
+3857270,Portugal,Uruguay,Group Stage,2,0,2,0,0,0,0,0
+3857271,England,Iran,Group Stage,6,2,6,2,0,0,0,0
+3857272,England,United States,Group Stage,0,0,0,0,0,0,0,0
+3857273,Wales,Iran,Group Stage,0,2,0,2,0,0,0,0
+3857274,Netherlands,Ecuador,Group Stage,1,1,1,1,0,0,0,0
+3857275,Tunisia,France,Group Stage,1,0,1,0,0,0,0,0
+3857276,Canada,Morocco,Group Stage,1,2,1,2,0,0,0,0
+3857277,Morocco,Croatia,Group Stage,0,0,0,0,0,0,0,0
+3857278,Iran,United States,Group Stage,0,1,0,1,0,0,0,0
+3857279,France,Australia,Group Stage,4,1,4,1,0,0,0,0
+3857280,Cameroon,Brazil,Group Stage,1,0,1,0,0,0,0,0
+3857281,Croatia,Canada,Group Stage,4,1,4,1,0,0,0,0
+3857282,United States,Wales,Group Stage,1,1,1,1,0,0,0,0
+3857283,Belgium,Morocco,Group Stage,0,2,0,2,0,0,0,0
+3857284,Germany,Japan,Group Stage,1,2,1,2,0,0,0,0
+3857285,Senegal,Netherlands,Group Stage,0,2,0,2,0,0,0,0
+3857286,Qatar,Ecuador,Group Stage,0,2,0,2,0,0,0,0
+3857287,Uruguay,South Korea,Group Stage,0,0,0,0,0,0,0,0
+3857288,Tunisia,Australia,Group Stage,0,1,0,1,0,0,0,0
+3857289,Argentina,Mexico,Group Stage,2,0,2,0,0,0,0,0
+3857290,Switzerland,Cameroon,Group Stage,1,0,1,0,0,0,0,0
+3857291,Spain,Costa Rica,Group Stage,7,0,7,0,0,0,0,0
+3857292,Costa Rica,Germany,Group Stage,2,4,2,4,0,0,0,0
+3857293,Ghana,Uruguay,Group Stage,0,2,0,2,0,0,0,0
+3857294,Netherlands,Qatar,Group Stage,2,0,2,0,0,0,0,0
+3857295,Japan,Costa Rica,Group Stage,0,1,0,1,0,0,0,0
+3857296,Croatia,Belgium,Group Stage,0,0,0,0,0,0,0,0
+3857297,Poland,Saudi Arabia,Group Stage,2,0,2,0,0,0,0,0
+3857298,Portugal,Ghana,Group Stage,3,2,3,2,0,0,0,0
+3857299,South Korea,Ghana,Group Stage,2,3,2,3,0,0,0,0
+3857300,Argentina,Saudi Arabia,Group Stage,1,2,1,2,0,0,0,0
+3857301,Qatar,Senegal,Group Stage,1,3,1,3,0,0,0,0
+3869117,Netherlands,United States,Round of 16,3,1,3,1,0,0,0,0
+3869118,England,Senegal,Round of 16,3,0,3,0,0,0,0,0
+3869151,Argentina,Australia,Round of 16,2,1,2,1,0,0,0,0
+3869152,France,Poland,Round of 16,3,1,3,1,0,0,0,0
+3869219,Japan,Croatia,Round of 16,1,1,1,1,1,3,1,1
+3869220,Morocco,Spain,Round of 16,0,0,0,0,3,0,1,1
+3869253,Brazil,South Korea,Round of 16,4,1,4,1,0,0,0,0
+3869254,Portugal,Switzerland,Round of 16,6,1,6,1,0,0,0,0
+3869321,Netherlands,Argentina,Quarter-finals,2,2,2,2,3,4,1,1
+3869354,England,France,Quarter-finals,1,2,1,2,0,0,0,0
+3869420,Croatia,Brazil,Quarter-finals,0,0,1,1,4,2,1,1
+3869486,Morocco,Portugal,Quarter-finals,1,0,1,0,0,0,0,0
+3869519,Argentina,Croatia,Semi-finals,3,0,3,0,0,0,0,0
+3869552,France,Morocco,Semi-finals,2,0,2,0,0,0,0,0
+3869684,Croatia,Morocco,3rd Place Final,2,1,2,1,0,0,0,0
+3869685,Argentina,France,Final,2,2,3,3,4,2,1,1

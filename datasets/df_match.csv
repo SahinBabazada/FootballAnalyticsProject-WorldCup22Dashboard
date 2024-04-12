@@ -1,0 +1,65 @@
+﻿match_id,match_date,home_score,away_score,match_week,home_team_id,home_team_name,home_team_group,home_team_managers_name,away_team_id,away_team_name,away_team_group,away_team_managers_name,competition_stage_name,stadium_name,referee_name,referee_country_name
+3857256,2022-12-02,2,3,3,786,Serbia,G,Dragan Stojković,773,Switzerland,G,Murat Yakin,Group Stage,Stadium 974,Fernando Andrés Rapallini,Argentina
+3869151,2022-12-03,2,1,4,779,Argentina,,Lionel Sebastián Scaloni,792,Australia,,Graham James Arnold,Round of 16,Ahmad bin Ali Stadium,Szymon Marciniak,Poland
+3857257,2022-11-30,1,0,3,792,Australia,D,Graham James Arnold,776,Denmark,D,Kasper Hjulmand,Group Stage,Al Janoub Stadium   ,Mustapha Ghorbal,Algeria
+3857258,2022-11-24,2,0,1,781,Brazil,G,Telê Santana da Silva,786,Serbia,G,Dragan Stojković,Group Stage,Lusail Stadium,Alireza Faghani,"Iran, Islamic Republic of"
+3857288,2022-11-26,0,1,2,777,Tunisia,D,Jalel Kadri,792,Australia,D,Graham James Arnold,Group Stage,Al Janoub Stadium   ,Daniel Siebert,Germany
+3857267,2022-11-29,1,2,3,3565,Ecuador,A,Gustavo Julio Alfaro,787,Senegal,A,Aliou Cissé,Group Stage,Sheikh Khalifa International Stadium,Clément Turpin,France
+3869321,2022-12-09,2,2,5,941,Netherlands,,Louis van Gaal,779,Argentina,,Lionel Sebastián Scaloni,Quarter-finals,Lusail Stadium,Antonio Miguel Mateu Lahoz,Spain
+3857287,2022-11-24,0,0,1,783,Uruguay,H,Diego Martín Alonso López,791,South Korea,H,Paulo Jorge Gomes Bento,Group Stage,Education City Stadium ,Clément Turpin,France
+3869486,2022-12-10,1,0,5,788,Morocco,,Hoalid Regragui,780,Portugal,,Fernando Manuel Fernandes da Costa Santos,Quarter-finals,Al Thumama Stadium,Facundo Tello Figueroa,Argentina
+3869685,2022-12-18,3,3,7,779,Argentina,,Lionel Sebastián Scaloni,771,France,,Didier Deschamps,Final,Lusail Stadium,Szymon Marciniak,Poland
+3857260,2022-11-30,1,2,3,799,Saudi Arabia,C,Hervé Renard,794,Mexico,C,Gerardo Daniel Martino,Group Stage,Lusail Stadium,Michael Oliver,England
+3857264,2022-11-30,0,2,3,789,Poland,C,Czesław Michniewicz,779,Argentina,C,Lionel Sebastián Scaloni,Group Stage,Stadium 974,Danny Desmond Makkelie,Netherlands
+3857266,2022-11-26,2,1,2,771,France,D,Didier Deschamps,776,Denmark,D,Kasper Hjulmand,Group Stage,Stadium 974,Szymon Marciniak,Poland
+3857289,2022-11-26,2,0,2,779,Argentina,C,Lionel Sebastián Scaloni,794,Mexico,C,Gerardo Daniel Martino,Group Stage,Lusail Stadium,Daniele Orsato,Italy
+3857269,2022-11-28,1,0,2,781,Brazil,G,Adenor Leonardo Bacchi,773,Switzerland,G,Murat Yakin,Group Stage,Stadium 974,Ivan Arcides Barton Cisneros,El Salvador
+3857294,2022-11-29,2,0,3,941,Netherlands,A,Louis van Gaal,3566,Qatar,A,Félix Sánchez Bas,Group Stage,Al Bayt Stadium,Bakary Papa Gassama,Gambia
+3869254,2022-12-06,6,1,4,780,Portugal,,Fernando Manuel Fernandes da Costa Santos,773,Switzerland,,Murat Yakin,Round of 16,Lusail Stadium,César Arturo Ramos Palazuelos,Mexico
+3869118,2022-12-04,3,0,4,768,England,,Gareth Southgate,787,Senegal,,Aliou Cissé,Round of 16,Al Bayt Stadium,Ivan Arcides Barton Cisneros,El Salvador
+3869684,2022-12-17,2,1,7,785,Croatia,,Zlatko Dalić,788,Morocco,,Hoalid Regragui,3rd Place Final,Sheikh Khalifa International Stadium,Abdulrahman Ibrahim Al Jassim,Qatar
+3869519,2022-12-13,3,0,6,779,Argentina,,Lionel Sebastián Scaloni,785,Croatia,,Zlatko Dalić,Semi-finals,Lusail Stadium,Daniele Orsato,Italy
+3869354,2022-12-10,1,2,5,768,England,,Gareth Southgate,771,France,,Didier Deschamps,Quarter-finals,Al Bayt Stadium,Wilton Pereira Sampaio,Brazil
+3869552,2022-12-14,2,0,6,771,France,,Didier Deschamps,788,Morocco,,Hoalid Regragui,Semi-finals,Al Bayt Stadium,César Arturo Ramos Palazuelos,Mexico
+3869420,2022-12-09,1,1,5,785,Croatia,,Zlatko Dalić,781,Brazil,,Telê Santana da Silva,Quarter-finals,Education City Stadium ,Michael Oliver,England
+3869220,2022-12-06,0,0,4,788,Morocco,,Hoalid Regragui,772,Spain,,Luis Enrique Martínez García,Round of 16,Education City Stadium ,Fernando Andrés Rapallini,Argentina
+3869219,2022-12-05,1,1,4,778,Japan,,Hajime Moriyasu,785,Croatia,,Zlatko Dalić,Round of 16,Al Janoub Stadium   ,Ismail Elfath,United States of America
+3869253,2022-12-05,4,1,4,781,Brazil,,Adenor Leonardo Bacchi,791,South Korea,,Paulo Jorge Gomes Bento,Round of 16,Stadium 974,Clément Turpin,France
+3869152,2022-12-04,3,1,4,771,France,,Didier Deschamps,789,Poland,,Czesław Michniewicz,Round of 16,Al Thumama Stadium,Jesús Valenzuela Sáez,Venezuela (Bolivarian Republic)
+3869117,2022-12-03,3,1,4,941,Netherlands,,Louis van Gaal,1839,United States,,Gregg Berhalter,Round of 16,Sheikh Khalifa International Stadium,Wilton Pereira Sampaio,Brazil
+3857270,2022-11-28,2,0,2,780,Portugal,H,Fernando Manuel Fernandes da Costa Santos,783,Uruguay,H,Diego Martín Alonso López,Group Stage,Lusail Stadium,Alireza Faghani,"Iran, Islamic Republic of"
+3857263,2022-11-27,1,1,2,772,Spain,E,Luis Enrique Martínez García,770,Germany,E,Hans-Dieter Flick,Group Stage,Al Bayt Stadium,Danny Desmond Makkelie,Netherlands
+3857259,2022-11-28,3,3,2,2722,Cameroon,G,Rigobert Song Bahanag,786,Serbia,G,Dragan Stojković,Group Stage,Al Janoub Stadium   ,Mohamed Abdulla Hassan Mohd,United Arab Emirates
+3857295,2022-11-27,0,1,2,778,Japan,E,Hajime Moriyasu,795,Costa Rica,E,Luis Fernando Suárez Guzman,Group Stage,Ahmad bin Ali Stadium,Michael Oliver,England
+3857283,2022-11-27,0,2,2,782,Belgium,F,Roberto Martínez Montoliú,788,Morocco,F,Walid Regragui,Group Stage,Al Thumama Stadium,César Arturo Ramos Palazuelos,Mexico
+3857284,2022-11-23,1,2,1,770,Germany,E,Hans-Dieter Flick,778,Japan,E,Hajime Moriyasu,Group Stage,Sheikh Khalifa International Stadium,Ivan Arcides Barton Cisneros,El Salvador
+3857282,2022-11-21,1,1,1,1839,United States,B,Gregg Berhalter,907,Wales,B,Robert Page,Group Stage,Ahmad bin Ali Stadium,Abdulrahman Ibrahim Al Jassim,Qatar
+3857286,2022-11-20,0,2,1,3566,Qatar,A,Félix Sánchez Bas,3565,Ecuador,A,Gustavo Julio Alfaro,Group Stage,Al Bayt Stadium,Daniele Orsato,Italy
+3857301,2022-11-25,1,3,2,3566,Qatar,A,Félix Sánchez Bas,787,Senegal,A,Aliou Cissé,Group Stage,Al Thumama Stadium,Antonio Miguel Mateu Lahoz,Spain
+3857300,2022-11-22,1,2,1,779,Argentina,C,Lionel Sebastián Scaloni,799,Saudi Arabia,C,Hervé Renard,Group Stage,Lusail Stadium,Slavko Vinčić,Slovenia
+3857299,2022-11-28,2,3,2,791,South Korea,H,Paulo Jorge Gomes Bento,4885,Ghana,H,Otto Addo,Group Stage,Education City Stadium ,Anthony Taylor,England
+3857298,2022-11-24,3,2,1,780,Portugal,H,Fernando Manuel Fernandes da Costa Santos,4885,Ghana,H,Otto Addo,Group Stage,Stadium 974,Ismail Elfath,United States of America
+3857297,2022-11-26,2,0,2,789,Poland,C,Czesław Michniewicz,799,Saudi Arabia,C,Hervé Renard,Group Stage,Education City Stadium ,Wilton Pereira Sampaio,Brazil
+3857296,2022-12-01,0,0,3,785,Croatia,F,Zlatko Dalić,782,Belgium,F,Roberto Martínez Montoliú,Group Stage,Ahmad bin Ali Stadium,Anthony Taylor,England
+3857293,2022-12-02,0,2,3,4885,Ghana,H,Otto Addo,783,Uruguay,H,Diego Martín Alonso López,Group Stage,Al Janoub Stadium   ,Daniel Siebert,Germany
+3857292,2022-12-01,2,4,3,795,Costa Rica,E,Luis Fernando Suárez Guzman,770,Germany,E,Hans-Dieter Flick,Group Stage,Al Bayt Stadium,Stéphanie Frappart,France
+3857291,2022-11-23,7,0,1,772,Spain,E,Luis Enrique Martínez García,795,Costa Rica,E,Luis Fernando Suárez Guzman,Group Stage,Al Thumama Stadium,,
+3857290,2022-11-24,1,0,1,773,Switzerland,G,Murat Yakin,2722,Cameroon,G,Rigobert Song Bahanag,Group Stage,Al Janoub Stadium   ,Facundo Tello Figueroa,Argentina
+3857285,2022-11-21,0,2,1,787,Senegal,A,Aliou Cissé,941,Netherlands,A,Louis van Gaal,Group Stage,Al Thumama Stadium,Wilton Pereira Sampaio,Brazil
+3857281,2022-11-27,4,1,2,785,Croatia,F,Zlatko Dalić,1833,Canada,F,John Herdman,Group Stage,Sheikh Khalifa International Stadium,Andrés Matonte,Uruguay
+3857280,2022-12-02,1,0,3,2722,Cameroon,G,Rigobert Song Bahanag,781,Brazil,G,Adenor Leonardo Bacchi,Group Stage,Lusail Stadium,Ismail Elfath,United States of America
+3857279,2022-11-22,4,1,1,771,France,D,Didier Deschamps,792,Australia,D,Graham James Arnold,Group Stage,Al Janoub Stadium   ,Victor Miguel de Freitas Gomes,South Africa
+3857278,2022-11-29,0,1,3,797,Iran,B,Carlos Manuel Brito Leal Queiróz,1839,United States,B,Gregg Berhalter,Group Stage,Al Thumama Stadium,Antonio Miguel Mateu Lahoz,Spain
+3857277,2022-11-23,0,0,1,788,Morocco,F,Walid Regragui,785,Croatia,F,Zlatko Dalić,Group Stage,Al Bayt Stadium,Fernando Andrés Rapallini,Argentina
+3857276,2022-12-01,1,2,3,1833,Canada,F,John Herdman,788,Morocco,F,Walid Regragui,Group Stage,Al Thumama Stadium,Raphael Claus,Brazil
+3857275,2022-11-30,1,0,3,777,Tunisia,D,Jalel Kadri,771,France,D,Didier Deschamps,Group Stage,Education City Stadium ,Matthew Conger,New Zealand
+3857274,2022-11-25,1,1,2,941,Netherlands,A,Louis van Gaal,3565,Ecuador,A,Gustavo Julio Alfaro,Group Stage,Sheikh Khalifa International Stadium,Mustapha Ghorbal,Algeria
+3857273,2022-11-25,0,2,2,907,Wales,B,Robert Page,797,Iran,B,Carlos Manuel Brito Leal Queiróz,Group Stage,Ahmad bin Ali Stadium,Mario Alberto Escobar Toca,Guatemala
+3857272,2022-11-25,0,0,2,768,England,B,Gareth Southgate,1839,United States,B,Gregg Berhalter,Group Stage,Al Bayt Stadium,Jesús Valenzuela Sáez,Venezuela (Bolivarian Republic)
+3857271,2022-11-21,6,2,1,768,England,B,Gareth Southgate,797,Iran,B,Carlos Manuel Brito Leal Queiróz,Group Stage,Sheikh Khalifa International Stadium,Raphael Claus,Brazil
+3857268,2022-11-23,1,0,1,782,Belgium,F,Roberto Martínez Montoliú,1833,Canada,F,John Herdman,Group Stage,Ahmad bin Ali Stadium,Janny Sikazwe,Zambia
+3857265,2022-11-22,0,0,1,794,Mexico,C,Gerardo Daniel Martino,789,Poland,C,Czesław Michniewicz,Group Stage,Stadium 974,Chris Beath,Australia
+3857262,2022-12-02,2,1,3,791,South Korea,H,Paulo Jorge Gomes Bento,780,Portugal,H,Fernando Manuel Fernandes da Costa Santos,Group Stage,Education City Stadium ,Facundo Tello Figueroa,Argentina
+3857261,2022-11-29,0,3,3,907,Wales,B,Robert Page,768,England,B,Gareth Southgate,Group Stage,Ahmad bin Ali Stadium,Slavko Vinčić,Slovenia
+3857255,2022-12-01,2,1,3,778,Japan,E,Hajime Moriyasu,772,Spain,E,Luis Enrique Martínez García,Group Stage,Sheikh Khalifa International Stadium,Victor Miguel de Freitas Gomes,South Africa
+3857254,2022-11-22,0,0,1,776,Denmark,D,Kasper Hjulmand,777,Tunisia,D,Jalel Kadri,Group Stage,Education City Stadium ,César Arturo Ramos Palazuelos,Mexico
