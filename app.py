@@ -10,14 +10,14 @@ import matplotlib.pyplot as plt
 from functions import new_line, id_match_dict, plot_percentage_bar, shot_map, pass_map, xg_plot, xg_per_min, threat_timeline
 
 # %% data loading
-df_statistics = pd.read_csv('datasets\match_statistics.csv')
-df_match = pd.read_csv('datasets\df_match.csv')
-df_shot = pd.read_csv('datasets\df_shot.csv')
-df_result = pd.read_csv('datasets\df_results.csv')
-df_info = pd.read_csv('datasets\df_info.csv')
-df_goal = pd.read_csv('datasets\df_goal.csv')
-df_penalty = pd.read_csv('datasets\df_penalty.csv')
-df_pass = pd.read_csv('datasets\df_pass.csv')
+df_statistics = pd.read_csv('datasets/match_statistics.csv')
+df_match = pd.read_csv('datasets/df_match.csv')
+df_shot = pd.read_csv('datasets/df_shot.csv')
+df_result = pd.read_csv('datasets/df_results.csv')
+df_info = pd.read_csv('datasets/df_info.csv')
+df_goal = pd.read_csv('datasets/df_goal.csv')
+df_penalty = pd.read_csv('datasets/df_penalty.csv')
+df_pass = pd.read_csv('datasets/df_pass.csv')
 
 # %% header set
 st.set_page_config(layout = "wide", page_icon = 'logo.jpg', page_title='FIFA World Cup 2022')
