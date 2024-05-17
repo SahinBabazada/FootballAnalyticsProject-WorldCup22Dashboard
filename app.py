@@ -23,7 +23,7 @@ df_pass = pd.read_csv('datasets/df_pass.csv')
 st.set_page_config(layout = "wide", page_icon = 'logo.jpg', page_title='FIFA World Cup 2022')
 
 st.markdown("<h1 style='text-align: center;'>Welcome to the World Cup 2022 Summary Application by Anar Abiyev!</h1>", unsafe_allow_html=True)
-st.markdown("##### Click a match from group stage playoffs and scroll down for comprehensive game summary and analysis!")
+st.markdown("##### Click a match from group stage or playoffs and scroll down for comprehensive game summary and analysis!")
 
 
 # %% group games
